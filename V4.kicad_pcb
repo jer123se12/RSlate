@@ -83,7 +83,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbr/")
+      (outputdirectory "outputs/gerber/")
     )
   )
 
@@ -4125,7 +4125,7 @@
     (property "Sheetname" "")
     (path "/f2350a9a-2ce4-4570-9308-7be3d9639d30")
     (attr through_hole)
-    (fp_text reference "SW1" (at 3.25 -2) (layer "F.SilkS")
+    (fp_text reference "SW1" (at 3.25 2.25) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 26e7e11e-3075-412d-9e93-41b430cade7a)
     )
