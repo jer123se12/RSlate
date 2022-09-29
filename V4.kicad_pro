@@ -160,7 +160,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "V4.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
