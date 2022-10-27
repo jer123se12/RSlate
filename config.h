@@ -40,7 +40,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION COL2ROW
 #define QMK_KEYS_PER_SCAN 40
-#define USB_POLLING_INTERVAL_MS 10
+#define USB_POLLING_INTERVAL_MS 0
 #define FORCE_NKRO
 #define RGB_DI_PIN D3
 #define DRIVER_LED_TOTAL 10
